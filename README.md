@@ -11,3 +11,6 @@
 > node server
 
 > http-server
+
+## Демонстрация:
+![all text](https://github.com/Arthur410/WebSocket/blob/master/WebSocketPreview.gif)
