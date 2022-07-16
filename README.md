@@ -1,12 +1,13 @@
-Установка зависимостей проекта
+## Установка зависимостей проекта
 
-npm i
+> npm i 
 
-Установка http-server глобально
+## Установка http-server глобально
 
-npm install -g http-server
+> npm install -g http-server
 
-Запуск
+## Запуск (запускать в разных терминалах)
 
-node server
-http-server
+> node server
+
+> http-server
